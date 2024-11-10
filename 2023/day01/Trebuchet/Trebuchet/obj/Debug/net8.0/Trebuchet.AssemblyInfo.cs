@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Trebuchet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+692faf008aeb9e3c6c2838888b7ea1e524802c39")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+115b424fe1d4d4073f48cb756896cf9f84902b98")]
 [assembly: System.Reflection.AssemblyProductAttribute("Trebuchet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Trebuchet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
