@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\AoC\2023\day02\CubeConundrum\CubeConundrum\bin\Debug\net8.0\CubeConundrum.exe
+C:\Users\user\source\repos\AoC\2023\day02\CubeConundrum\CubeConundrum\bin\Debug\net8.0\CubeConundrum.deps.json
+C:\Users\user\source\repos\AoC\2023\day02\CubeConundrum\CubeConundrum\bin\Debug\net8.0\CubeConundrum.runtimeconfig.json
+C:\Users\user\source\repos\AoC\2023\day02\CubeConundrum\CubeConundrum\bin\Debug\net8.0\CubeConundrum.dll
+C:\Users\user\source\repos\AoC\2023\day02\CubeConundrum\CubeConundrum\bin\Debug\net8.0\CubeConundrum.pdb
+C:\Users\user\source\repos\AoC\2023\day02\CubeConundrum\CubeConundrum\obj\Debug\net8.0\CubeConundrum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\AoC\2023\day02\CubeConundrum\CubeConundrum\obj\Debug\net8.0\CubeConundrum.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AoC\2023\day02\CubeConundrum\CubeConundrum\obj\Debug\net8.0\CubeConundrum.AssemblyInfo.cs
+C:\Users\user\source\repos\AoC\2023\day02\CubeConundrum\CubeConundrum\obj\Debug\net8.0\CubeConundrum.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AoC\2023\day02\CubeConundrum\CubeConundrum\obj\Debug\net8.0\CubeConundrum.sourcelink.json
+C:\Users\user\source\repos\AoC\2023\day02\CubeConundrum\CubeConundrum\obj\Debug\net8.0\CubeConundrum.dll
+C:\Users\user\source\repos\AoC\2023\day02\CubeConundrum\CubeConundrum\obj\Debug\net8.0\refint\CubeConundrum.dll
+C:\Users\user\source\repos\AoC\2023\day02\CubeConundrum\CubeConundrum\obj\Debug\net8.0\CubeConundrum.pdb
+C:\Users\user\source\repos\AoC\2023\day02\CubeConundrum\CubeConundrum\obj\Debug\net8.0\CubeConundrum.genruntimeconfig.cache
+C:\Users\user\source\repos\AoC\2023\day02\CubeConundrum\CubeConundrum\obj\Debug\net8.0\ref\CubeConundrum.dll
