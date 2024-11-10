@@ -34,9 +34,48 @@
 
         private static int CalculatePowerOfGame(string line)
         {
-            // TODO implement
+            int redHigh = 0;
+            int greenHigh = 0;
+            int blueHigh = 0;
 
-            return 0;
+            string[] game = line.Split(':');
+            string[] picks = game[1].Split(',', ';');
+
+            foreach (var pick in picks)
+            {
+                string[] oneNumberAndColor = pick.Trim().Split(' ');
+                int number = Int32.Parse(oneNumberAndColor[0]);
+                string color = oneNumberAndColor[1];
+
+                switch (color)
+                {
+                    case "red":
+                        if (number > redHigh)
+                        {
+                            redHigh = number;
+                        }
+                        break;
+
+                    case "green":
+                        if (number > greenHigh)
+                        {
+                            greenHigh = number;
+                        }
+                        break;
+
+                    case "blue":
+                        if (number > blueHigh)
+                        {
+                            blueHigh = number;
+                        }
+                        break;
+
+                    default:
+                        break;
+                }
+            }
+
+            return redHigh * greenHigh * blueHigh;
         }
 
         private static int CheckLineIfLegitGame(string line)

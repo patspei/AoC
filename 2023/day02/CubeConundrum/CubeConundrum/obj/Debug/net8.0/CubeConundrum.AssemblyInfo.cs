@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CubeConundrum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7bf86c6fe725b1784a953f82dccd6a33139855c1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5fe2517759756396b70399cef60f13a3d759a571")]
 [assembly: System.Reflection.AssemblyProductAttribute("CubeConundrum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CubeConundrum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
