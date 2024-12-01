@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\AoC\2023\day03\GearRatios\GearRatios\bin\Debug\net8.0\GearRatios.exe
+C:\Users\user\source\repos\AoC\2023\day03\GearRatios\GearRatios\bin\Debug\net8.0\GearRatios.deps.json
+C:\Users\user\source\repos\AoC\2023\day03\GearRatios\GearRatios\bin\Debug\net8.0\GearRatios.runtimeconfig.json
+C:\Users\user\source\repos\AoC\2023\day03\GearRatios\GearRatios\bin\Debug\net8.0\GearRatios.dll
+C:\Users\user\source\repos\AoC\2023\day03\GearRatios\GearRatios\bin\Debug\net8.0\GearRatios.pdb
+C:\Users\user\source\repos\AoC\2023\day03\GearRatios\GearRatios\obj\Debug\net8.0\GearRatios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\AoC\2023\day03\GearRatios\GearRatios\obj\Debug\net8.0\GearRatios.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AoC\2023\day03\GearRatios\GearRatios\obj\Debug\net8.0\GearRatios.AssemblyInfo.cs
+C:\Users\user\source\repos\AoC\2023\day03\GearRatios\GearRatios\obj\Debug\net8.0\GearRatios.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AoC\2023\day03\GearRatios\GearRatios\obj\Debug\net8.0\GearRatios.sourcelink.json
+C:\Users\user\source\repos\AoC\2023\day03\GearRatios\GearRatios\obj\Debug\net8.0\GearRatios.dll
+C:\Users\user\source\repos\AoC\2023\day03\GearRatios\GearRatios\obj\Debug\net8.0\refint\GearRatios.dll
+C:\Users\user\source\repos\AoC\2023\day03\GearRatios\GearRatios\obj\Debug\net8.0\GearRatios.pdb
+C:\Users\user\source\repos\AoC\2023\day03\GearRatios\GearRatios\obj\Debug\net8.0\GearRatios.genruntimeconfig.cache
+C:\Users\user\source\repos\AoC\2023\day03\GearRatios\GearRatios\obj\Debug\net8.0\ref\GearRatios.dll

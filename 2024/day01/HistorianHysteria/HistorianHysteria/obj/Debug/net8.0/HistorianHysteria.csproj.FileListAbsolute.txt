@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\AoC\2024\day01\HistorianHysteria\HistorianHysteria\obj\Debug\net8.0\HistorianHysteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\AoC\2024\day01\HistorianHysteria\HistorianHysteria\obj\Debug\net8.0\HistorianHysteria.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AoC\2024\day01\HistorianHysteria\HistorianHysteria\obj\Debug\net8.0\HistorianHysteria.AssemblyInfo.cs
+C:\Users\user\source\repos\AoC\2024\day01\HistorianHysteria\HistorianHysteria\obj\Debug\net8.0\HistorianHysteria.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AoC\2024\day01\HistorianHysteria\HistorianHysteria\obj\Debug\net8.0\HistorianHysteria.sourcelink.json
+C:\Users\user\source\repos\AoC\2024\day01\HistorianHysteria\HistorianHysteria\bin\Debug\net8.0\HistorianHysteria.exe
+C:\Users\user\source\repos\AoC\2024\day01\HistorianHysteria\HistorianHysteria\bin\Debug\net8.0\HistorianHysteria.deps.json
+C:\Users\user\source\repos\AoC\2024\day01\HistorianHysteria\HistorianHysteria\bin\Debug\net8.0\HistorianHysteria.runtimeconfig.json
+C:\Users\user\source\repos\AoC\2024\day01\HistorianHysteria\HistorianHysteria\bin\Debug\net8.0\HistorianHysteria.dll
+C:\Users\user\source\repos\AoC\2024\day01\HistorianHysteria\HistorianHysteria\bin\Debug\net8.0\HistorianHysteria.pdb
+C:\Users\user\source\repos\AoC\2024\day01\HistorianHysteria\HistorianHysteria\obj\Debug\net8.0\HistorianHysteria.dll
+C:\Users\user\source\repos\AoC\2024\day01\HistorianHysteria\HistorianHysteria\obj\Debug\net8.0\refint\HistorianHysteria.dll
+C:\Users\user\source\repos\AoC\2024\day01\HistorianHysteria\HistorianHysteria\obj\Debug\net8.0\HistorianHysteria.pdb
+C:\Users\user\source\repos\AoC\2024\day01\HistorianHysteria\HistorianHysteria\obj\Debug\net8.0\HistorianHysteria.genruntimeconfig.cache
+C:\Users\user\source\repos\AoC\2024\day01\HistorianHysteria\HistorianHysteria\obj\Debug\net8.0\ref\HistorianHysteria.dll

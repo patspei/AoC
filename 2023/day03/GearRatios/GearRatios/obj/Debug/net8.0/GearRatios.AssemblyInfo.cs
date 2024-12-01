@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GearRatios")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1073eff674269b0cc3ead94466640323535d541a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a41f445e001e2165540ba76c5dddd0717df612ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("GearRatios")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GearRatios")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\AoC\\2023\\day03\\GearRatios\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{82DC6976-3F34-4800-89C4-068DE696758F}|GearRatios\\GearRatios.csproj|c:\\users\\user\\source\\repos\\aoc\\2023\\day03\\gearratios\\gearratios\\gearratioa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DC6976-3F34-4800-89C4-068DE696758F}|GearRatios\\GearRatios.csproj|solutionrelative:gearratios\\gearratioa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82DC6976-3F34-4800-89C4-068DE696758F}|GearRatios\\GearRatios.csproj|c:\\users\\user\\source\\repos\\aoc\\2023\\day03\\gearratios\\gearratios\\gearratios.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{82DC6976-3F34-4800-89C4-068DE696758F}|GearRatios\\GearRatios.csproj|solutionrelative:gearratios\\gearratios.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{82DC6976-3F34-4800-89C4-068DE696758F}|GearRatios\\GearRatios.csproj|c:\\users\\user\\source\\repos\\aoc\\2023\\day03\\gearratios\\gearratios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82DC6976-3F34-4800-89C4-068DE696758F}|GearRatios\\GearRatios.csproj|solutionrelative:gearratios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,17 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GearRatios",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AoC\\2023\\day03\\GearRatios\\GearRatios\\GearRatios.csproj",
+              "RelativeDocumentMoniker": "GearRatios\\GearRatios.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AoC\\2023\\day03\\GearRatios\\GearRatios\\GearRatios.csproj",
+              "RelativeToolTip": "GearRatios\\GearRatios.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-23T11:58:14.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GearRatioA.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AoC\\2023\\day03\\GearRatios\\GearRatios\\GearRatioA.cs",
+              "RelativeDocumentMoniker": "GearRatios\\GearRatioA.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AoC\\2023\\day03\\GearRatios\\GearRatios\\GearRatioA.cs",
+              "RelativeToolTip": "GearRatios\\GearRatioA.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAWwDIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T21:18:56.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AoC\\2023\\day03\\GearRatios\\GearRatios\\Program.cs",
               "RelativeDocumentMoniker": "GearRatios\\Program.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\AoC\\2023\\day03\\GearRatios\\GearRatios\\Program.cs",
               "RelativeToolTip": "GearRatios\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T14:41:58.412Z",
               "EditorCaption": ""
