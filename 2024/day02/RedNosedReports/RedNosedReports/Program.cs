@@ -22,6 +22,7 @@ while (line != null)
     line = reader.ReadLine();
 }
 
+reader.Close();
 Console.WriteLine($"SumA: {sumA}");
 Console.WriteLine($"SumB: {sumB}");
 Console.ReadKey();

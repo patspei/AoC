@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RedNosedReports")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b63b1154ca1e83b74d5ad2b8a781c6ca4102c37")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1dbd2c6cab463040197f2e0049f65b5f9187e476")]
 [assembly: System.Reflection.AssemblyProductAttribute("RedNosedReports")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RedNosedReports")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

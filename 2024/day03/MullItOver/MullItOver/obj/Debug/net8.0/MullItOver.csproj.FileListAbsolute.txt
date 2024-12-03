@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\AoC\2024\day03\MullItOver\MullItOver\bin\Debug\net8.0\MullItOver.exe
+C:\Users\user\source\repos\AoC\2024\day03\MullItOver\MullItOver\bin\Debug\net8.0\MullItOver.deps.json
+C:\Users\user\source\repos\AoC\2024\day03\MullItOver\MullItOver\bin\Debug\net8.0\MullItOver.runtimeconfig.json
+C:\Users\user\source\repos\AoC\2024\day03\MullItOver\MullItOver\bin\Debug\net8.0\MullItOver.dll
+C:\Users\user\source\repos\AoC\2024\day03\MullItOver\MullItOver\bin\Debug\net8.0\MullItOver.pdb
+C:\Users\user\source\repos\AoC\2024\day03\MullItOver\MullItOver\obj\Debug\net8.0\MullItOver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\AoC\2024\day03\MullItOver\MullItOver\obj\Debug\net8.0\MullItOver.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AoC\2024\day03\MullItOver\MullItOver\obj\Debug\net8.0\MullItOver.AssemblyInfo.cs
+C:\Users\user\source\repos\AoC\2024\day03\MullItOver\MullItOver\obj\Debug\net8.0\MullItOver.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AoC\2024\day03\MullItOver\MullItOver\obj\Debug\net8.0\MullItOver.sourcelink.json
+C:\Users\user\source\repos\AoC\2024\day03\MullItOver\MullItOver\obj\Debug\net8.0\MullItOver.dll
+C:\Users\user\source\repos\AoC\2024\day03\MullItOver\MullItOver\obj\Debug\net8.0\refint\MullItOver.dll
+C:\Users\user\source\repos\AoC\2024\day03\MullItOver\MullItOver\obj\Debug\net8.0\MullItOver.pdb
+C:\Users\user\source\repos\AoC\2024\day03\MullItOver\MullItOver\obj\Debug\net8.0\MullItOver.genruntimeconfig.cache
+C:\Users\user\source\repos\AoC\2024\day03\MullItOver\MullItOver\obj\Debug\net8.0\ref\MullItOver.dll
