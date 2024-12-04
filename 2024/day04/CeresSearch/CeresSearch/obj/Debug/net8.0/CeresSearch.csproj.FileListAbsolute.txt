@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\CeresSearch\CeresSearch\bin\Debug\net8.0\CeresSearch.exe
+C:\Users\user\source\repos\CeresSearch\CeresSearch\bin\Debug\net8.0\CeresSearch.deps.json
+C:\Users\user\source\repos\CeresSearch\CeresSearch\bin\Debug\net8.0\CeresSearch.runtimeconfig.json
+C:\Users\user\source\repos\CeresSearch\CeresSearch\bin\Debug\net8.0\CeresSearch.dll
+C:\Users\user\source\repos\CeresSearch\CeresSearch\bin\Debug\net8.0\CeresSearch.pdb
+C:\Users\user\source\repos\CeresSearch\CeresSearch\obj\Debug\net8.0\CeresSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CeresSearch\CeresSearch\obj\Debug\net8.0\CeresSearch.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CeresSearch\CeresSearch\obj\Debug\net8.0\CeresSearch.AssemblyInfo.cs
+C:\Users\user\source\repos\CeresSearch\CeresSearch\obj\Debug\net8.0\CeresSearch.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CeresSearch\CeresSearch\obj\Debug\net8.0\CeresSearch.dll
+C:\Users\user\source\repos\CeresSearch\CeresSearch\obj\Debug\net8.0\refint\CeresSearch.dll
+C:\Users\user\source\repos\CeresSearch\CeresSearch\obj\Debug\net8.0\CeresSearch.pdb
+C:\Users\user\source\repos\CeresSearch\CeresSearch\obj\Debug\net8.0\CeresSearch.genruntimeconfig.cache
+C:\Users\user\source\repos\CeresSearch\CeresSearch\obj\Debug\net8.0\ref\CeresSearch.dll
