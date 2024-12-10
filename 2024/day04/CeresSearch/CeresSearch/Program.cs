@@ -1,8 +1,4 @@
-﻿
-
-
-
-string inputPath = @"C:\Users\user\source\repos\AoC\2024\day04\input.txt";
+﻿string inputPath = @"C:\Users\user\source\repos\AoC\2024\day04\input.txt";
 StreamReader reader = new StreamReader(inputPath);
 string line = reader.ReadLine();
 
@@ -21,6 +17,7 @@ while (line != null)
 }
 
 int sumA = 0;
+int sumB = 0;
 for (lineIndex = 0; lineIndex < puzzleText.GetLength(1); lineIndex++)
 {
     for (int rowIndex = 0; rowIndex < puzzleText.GetLength(0); rowIndex++)
@@ -29,11 +26,87 @@ for (lineIndex = 0; lineIndex < puzzleText.GetLength(1); lineIndex++)
         {
             sumA += CheckAllDirections(lineIndex, rowIndex);
         }
+
+        if (puzzleText[lineIndex, rowIndex] == 'A')
+        {
+            sumB += CheckCross(lineIndex, rowIndex);
+        }
     }
+
+    Console.WriteLine($"Line: {lineIndex} finished.");
 }
 
 reader.Close();
-Console.WriteLine(sumA);
+Console.WriteLine($"Sum A: {sumA}");
+Console.WriteLine($"Sum B: {sumB}");
+
+Console.ReadKey();
+
+
+int CheckCross(int lineIndex, int rowIndex)
+{
+    if (UpperM(lineIndex, rowIndex) ||
+        RightM(lineIndex, rowIndex) ||
+        DownM(lineIndex, rowIndex) ||
+        LeftM(lineIndex, rowIndex))
+    {
+        return 1;
+    }
+
+    return 0;
+}
+
+bool LeftM(int lineIndex, int rowIndex)
+{
+    if (CheckOnSpecifiedPosition(lineIndex - 1, rowIndex - 1, 'M') &&
+        CheckOnSpecifiedPosition(lineIndex + 1, rowIndex - 1, 'M') &&
+        CheckOnSpecifiedPosition(lineIndex - 1, rowIndex + 1, 'S') &&
+        CheckOnSpecifiedPosition(lineIndex + 1, rowIndex + 1, 'S'))
+    {
+        return true;
+    }
+
+    return false;
+}
+
+bool DownM(int lineIndex, int rowIndex)
+{
+    if (CheckOnSpecifiedPosition(lineIndex + 1, rowIndex - 1, 'M') &&
+        CheckOnSpecifiedPosition(lineIndex + 1, rowIndex + 1, 'M') &&
+        CheckOnSpecifiedPosition(lineIndex - 1, rowIndex - 1, 'S') &&
+        CheckOnSpecifiedPosition(lineIndex - 1, rowIndex + 1, 'S'))
+    {
+        return true;
+    }
+
+    return false;
+}
+
+bool RightM(int lineIndex, int rowIndex)
+{
+    if (CheckOnSpecifiedPosition(lineIndex - 1, rowIndex + 1, 'M') &&
+        CheckOnSpecifiedPosition(lineIndex + 1, rowIndex + 1, 'M') &&
+        CheckOnSpecifiedPosition(lineIndex - 1, rowIndex - 1, 'S') &&
+        CheckOnSpecifiedPosition(lineIndex + 1, rowIndex - 1, 'S'))
+    {
+        return true;
+    }
+
+    return false;
+}
+
+bool UpperM(int lineIndex, int rowIndex)
+{
+    if (CheckOnSpecifiedPosition(lineIndex - 1, rowIndex - 1, 'M') &&
+        CheckOnSpecifiedPosition(lineIndex - 1, rowIndex + 1, 'M') &&
+        CheckOnSpecifiedPosition(lineIndex + 1, rowIndex - 1, 'S') &&
+        CheckOnSpecifiedPosition(lineIndex + 1, rowIndex + 1, 'S'))
+    {
+        return true;
+    }
+
+    return false;
+}
 
 int CheckAllDirections(int lineIndex, int rowIndex)
 {
@@ -162,5 +235,3 @@ bool CheckOnSpecifiedPosition(int line, int row, char character)
 
     return false;
 }
-
-Console.ReadKey();

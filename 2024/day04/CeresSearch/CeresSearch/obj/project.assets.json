@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\CeresSearch\\CeresSearch\\CeresSearch.csproj",
+      "projectUniqueName": "C:\\Users\\user\\source\\repos\\AoC\\2024\\day04\\CeresSearch\\CeresSearch\\CeresSearch.csproj",
       "projectName": "CeresSearch",
-      "projectPath": "C:\\Users\\user\\source\\repos\\CeresSearch\\CeresSearch\\CeresSearch.csproj",
+      "projectPath": "C:\\Users\\user\\source\\repos\\AoC\\2024\\day04\\CeresSearch\\CeresSearch\\CeresSearch.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\CeresSearch\\CeresSearch\\obj\\",
+      "outputPath": "C:\\Users\\user\\source\\repos\\AoC\\2024\\day04\\CeresSearch\\CeresSearch\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

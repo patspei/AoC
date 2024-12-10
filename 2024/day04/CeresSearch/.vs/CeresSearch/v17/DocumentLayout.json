@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\CeresSearch\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\AoC\\2024\\day04\\CeresSearch\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{13A25442-01BB-4D89-8832-B5B0484E2FF4}|CeresSearch\\CeresSearch.csproj|c:\\users\\user\\source\\repos\\ceressearch\\ceressearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13A25442-01BB-4D89-8832-B5B0484E2FF4}|CeresSearch\\CeresSearch.csproj|c:\\users\\user\\source\\repos\\aoc\\2024\\day04\\ceressearch\\ceressearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13A25442-01BB-4D89-8832-B5B0484E2FF4}|CeresSearch\\CeresSearch.csproj|solutionrelative:ceressearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CeresSearch\\CeresSearch\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AoC\\2024\\day04\\CeresSearch\\CeresSearch\\Program.cs",
               "RelativeDocumentMoniker": "CeresSearch\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\CeresSearch\\CeresSearch\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AoC\\2024\\day04\\CeresSearch\\CeresSearch\\Program.cs",
               "RelativeToolTip": "CeresSearch\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAUwAgAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T09:55:43.259Z",
               "EditorCaption": ""
