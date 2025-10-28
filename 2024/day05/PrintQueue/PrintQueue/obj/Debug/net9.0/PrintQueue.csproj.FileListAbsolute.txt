@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\AoC\2024\day05\PrintQueue\PrintQueue\bin\Debug\net9.0\PrintQueue.exe
+C:\Users\user\source\repos\AoC\2024\day05\PrintQueue\PrintQueue\bin\Debug\net9.0\PrintQueue.deps.json
+C:\Users\user\source\repos\AoC\2024\day05\PrintQueue\PrintQueue\bin\Debug\net9.0\PrintQueue.runtimeconfig.json
+C:\Users\user\source\repos\AoC\2024\day05\PrintQueue\PrintQueue\bin\Debug\net9.0\PrintQueue.dll
+C:\Users\user\source\repos\AoC\2024\day05\PrintQueue\PrintQueue\bin\Debug\net9.0\PrintQueue.pdb
+C:\Users\user\source\repos\AoC\2024\day05\PrintQueue\PrintQueue\obj\Debug\net9.0\PrintQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\AoC\2024\day05\PrintQueue\PrintQueue\obj\Debug\net9.0\PrintQueue.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AoC\2024\day05\PrintQueue\PrintQueue\obj\Debug\net9.0\PrintQueue.AssemblyInfo.cs
+C:\Users\user\source\repos\AoC\2024\day05\PrintQueue\PrintQueue\obj\Debug\net9.0\PrintQueue.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AoC\2024\day05\PrintQueue\PrintQueue\obj\Debug\net9.0\PrintQueue.sourcelink.json
+C:\Users\user\source\repos\AoC\2024\day05\PrintQueue\PrintQueue\obj\Debug\net9.0\PrintQueue.dll
+C:\Users\user\source\repos\AoC\2024\day05\PrintQueue\PrintQueue\obj\Debug\net9.0\refint\PrintQueue.dll
+C:\Users\user\source\repos\AoC\2024\day05\PrintQueue\PrintQueue\obj\Debug\net9.0\PrintQueue.pdb
+C:\Users\user\source\repos\AoC\2024\day05\PrintQueue\PrintQueue\obj\Debug\net9.0\PrintQueue.genruntimeconfig.cache
+C:\Users\user\source\repos\AoC\2024\day05\PrintQueue\PrintQueue\obj\Debug\net9.0\ref\PrintQueue.dll
