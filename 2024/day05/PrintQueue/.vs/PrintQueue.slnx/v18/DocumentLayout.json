@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\AoC\\2024\\day05\\PrintQueue\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53AD2B74-5A87-4746-A0B9-CE9127D7511B}|PrintQueue\\PrintQueue.csproj|c:\\users\\user\\source\\repos\\aoc\\2024\\day05\\printqueue\\printqueue\\asolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53AD2B74-5A87-4746-A0B9-CE9127D7511B}|PrintQueue\\PrintQueue.csproj|solutionrelative:printqueue\\asolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00D54DDE-BA7F-95F9-7BF7-8CAE7A95A4AD}|PrintQueue\\PrintQueue.csproj|c:\\users\\user\\source\\repos\\aoc\\2024\\day05\\printqueue\\printqueue\\solver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D54DDE-BA7F-95F9-7BF7-8CAE7A95A4AD}|PrintQueue\\PrintQueue.csproj|solutionrelative:printqueue\\solver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53AD2B74-5A87-4746-A0B9-CE9127D7511B}|PrintQueue\\PrintQueue.csproj|c:\\users\\user\\source\\repos\\aoc\\2024\\day05\\printqueue\\printqueue\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{53AD2B74-5A87-4746-A0B9-CE9127D7511B}|PrintQueue\\PrintQueue.csproj|solutionrelative:printqueue\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{00D54DDE-BA7F-95F9-7BF7-8CAE7A95A4AD}|PrintQueue\\PrintQueue.csproj|c:\\users\\user\\source\\repos\\aoc\\2024\\day05\\printqueue\\printqueue\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{00D54DDE-BA7F-95F9-7BF7-8CAE7A95A4AD}|PrintQueue\\PrintQueue.csproj|solutionrelative:printqueue\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53AD2B74-5A87-4746-A0B9-CE9127D7511B}|PrintQueue\\PrintQueue.csproj|c:\\users\\user\\source\\repos\\aoc\\2024\\day05\\printqueue\\printqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53AD2B74-5A87-4746-A0B9-CE9127D7511B}|PrintQueue\\PrintQueue.csproj|solutionrelative:printqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00D54DDE-BA7F-95F9-7BF7-8CAE7A95A4AD}|PrintQueue\\PrintQueue.csproj|c:\\users\\user\\source\\repos\\aoc\\2024\\day05\\printqueue\\printqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D54DDE-BA7F-95F9-7BF7-8CAE7A95A4AD}|PrintQueue\\PrintQueue.csproj|solutionrelative:printqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53AD2B74-5A87-4746-A0B9-CE9127D7511B}|PrintQueue\\PrintQueue.csproj|c:\\users\\user\\source\\repos\\aoc\\2024\\day05\\printqueue\\printqueue\\updatelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53AD2B74-5A87-4746-A0B9-CE9127D7511B}|PrintQueue\\PrintQueue.csproj|solutionrelative:printqueue\\updatelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00D54DDE-BA7F-95F9-7BF7-8CAE7A95A4AD}|PrintQueue\\PrintQueue.csproj|c:\\users\\user\\source\\repos\\aoc\\2024\\day05\\printqueue\\printqueue\\updatelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D54DDE-BA7F-95F9-7BF7-8CAE7A95A4AD}|PrintQueue\\PrintQueue.csproj|solutionrelative:printqueue\\updatelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53AD2B74-5A87-4746-A0B9-CE9127D7511B}|PrintQueue\\PrintQueue.csproj|c:\\users\\user\\source\\repos\\aoc\\2024\\day05\\printqueue\\printqueue\\orderrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53AD2B74-5A87-4746-A0B9-CE9127D7511B}|PrintQueue\\PrintQueue.csproj|solutionrelative:printqueue\\orderrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00D54DDE-BA7F-95F9-7BF7-8CAE7A95A4AD}|PrintQueue\\PrintQueue.csproj|c:\\users\\user\\source\\repos\\aoc\\2024\\day05\\printqueue\\printqueue\\orderrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D54DDE-BA7F-95F9-7BF7-8CAE7A95A4AD}|PrintQueue\\PrintQueue.csproj|solutionrelative:printqueue\\orderrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,24 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 212,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "input.txt",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AoC\\2024\\day05\\PrintQueue\\PrintQueue\\input.txt",
-              "RelativeDocumentMoniker": "PrintQueue\\input.txt",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\AoC\\2024\\day05\\PrintQueue\\PrintQueue\\input.txt",
-              "RelativeToolTip": "PrintQueue\\input.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkFAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-10-28T10:40:11.908Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -57,10 +44,9 @@
               "RelativeDocumentMoniker": "PrintQueue\\UpdateList.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\AoC\\2024\\day05\\PrintQueue\\PrintQueue\\UpdateList.cs",
               "RelativeToolTip": "PrintQueue\\UpdateList.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T10:05:45.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T10:05:45.596Z"
             },
             {
               "$type": "Document",
@@ -72,20 +58,32 @@
               "RelativeToolTip": "PrintQueue\\OrderRule.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T09:48:30.352Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T09:48:30.352Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ASolver.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AoC\\2024\\day05\\PrintQueue\\PrintQueue\\ASolver.cs",
-              "RelativeDocumentMoniker": "PrintQueue\\ASolver.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\AoC\\2024\\day05\\PrintQueue\\PrintQueue\\ASolver.cs",
-              "RelativeToolTip": "PrintQueue\\ASolver.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Title": "Solver.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AoC\\2024\\day05\\PrintQueue\\PrintQueue\\Solver.cs",
+              "RelativeDocumentMoniker": "PrintQueue\\Solver.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AoC\\2024\\day05\\PrintQueue\\PrintQueue\\Solver.cs",
+              "RelativeToolTip": "PrintQueue\\Solver.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAswFMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T09:45:33.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AoC\\2024\\day05\\PrintQueue\\PrintQueue\\input.txt",
+              "RelativeDocumentMoniker": "PrintQueue\\input.txt",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AoC\\2024\\day05\\PrintQueue\\PrintQueue\\input.txt",
+              "RelativeToolTip": "PrintQueue\\input.txt",
+              "ViewState": "AgIAACsFAAAAAAAAAAAiwEUFAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-28T10:40:11.908Z",
               "EditorCaption": ""
             },
             {
@@ -96,7 +94,7 @@
               "RelativeDocumentMoniker": "PrintQueue\\Program.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\AoC\\2024\\day05\\PrintQueue\\PrintQueue\\Program.cs",
               "RelativeToolTip": "PrintQueue\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T09:19:01.68Z",
               "EditorCaption": ""

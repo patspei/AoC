@@ -1,6 +1,7 @@
 ﻿
-ASolver a = new();
-int resultA = a.Solve();
-
+Solver solver = new();
+int resultA = solver.SolvePartA();
+int resultB = solver.SolvePartB();
 
 Console.WriteLine($"Result A: {resultA}");
+Console.WriteLine($"Result B: {resultB}");

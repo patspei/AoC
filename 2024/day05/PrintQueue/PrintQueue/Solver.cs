@@ -1,10 +1,16 @@
-﻿internal class ASolver
+﻿
+
+using System;
+using System.Collections;
+using System.Collections.Generic;
+
+internal class Solver
 {
     private string[] _input;
     private List<OrderRule> _ruleSet = new();
     private List<UpdateList> _updateLists = new();
 
-    internal int Solve()
+    internal int SolvePartA()
     {
         this.ReadAndExtractInput();
 
@@ -15,6 +21,66 @@
         }
 
         return returnValue;
+    }
+
+    internal int SolvePartB()
+    {
+        int returnValue = 0;
+        for (int i = 0; i < _updateLists.Count; i++)
+        {
+            if (!_updateLists[i].Correct)
+            {
+                returnValue += this.FixListOrder(_updateLists[i]);
+            }
+        }
+
+        return returnValue;
+    }
+
+    private int FixListOrder(UpdateList list)
+    {
+        // check every number in list
+        for (int i = 1; i < list.Items.Count; i++)
+        {
+            bool swapped = false;
+
+            // look into every rule
+            for (int j = 0; j < _ruleSet.Count; j++)
+            {
+                if (swapped)
+                {
+                    break;
+                }
+
+                // if a rule with rule.First for actual number (index i) exist
+                if (list.Items[i] == _ruleSet[j].First)
+                {
+                    // check every number before the actual number (index i)
+                    for (int k = 0; k < i; k++)
+                    {
+                        if (swapped)
+                        {
+                            break;
+                        }
+
+                        // to ensure that rule.Second is not before actual number (index i)
+                        if (list.Items[k] == _ruleSet[j].Second)
+                        {
+                            // swap positions
+                            (list.Items[i], list.Items[k]) = (list.Items[k], list.Items[i]);
+                            swapped = true;
+
+                            // start with comparing at actual set position
+                            i = (k-1);
+                        }
+                    }
+                }
+            }
+
+            // go here after swap
+        }
+
+        return list.Items[list.Items.Count / 2];
     }
 
     private int CalculateCorrectness(UpdateList list)
@@ -31,13 +97,15 @@
                     {
                         if (list.Items[k] == _ruleSet[i].First)
                         {
+                            list.Correct = false;
                             return 0;
                         }
                     }
                 }
             }
         }
-        
+
+        list.Correct = true;
         return list.Items[list.Items.Count / 2];
     }
 
